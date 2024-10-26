@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=19Sonali&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<div style='display:flex;  'gap: 30px';>
 
   <img src="https://github.com/19Sonali/19Sonali/blob/main/Postman.png" width="100px" height="100px" />
   <img src="https://github.com/19Sonali/19Sonali/blob/main/hacktober.png" width="100px" height="100px" />

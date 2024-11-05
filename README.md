@@ -18,9 +18,9 @@
 ## Badges 🪶
 <div style='display:flex;  'gap: 30px';>
 
-  <img src="https://github.com/19Sonali/19Sonali/blob/main/Postman.png" width="100px" height="100px" />
-  <img src="https://github.com/19Sonali/19Sonali/blob/main/hacktober.png" width="100px" height="100px" />
-   <img src="https://github.com/19Sonali/19Sonali/blob/main/hacktober-level2.png" width="100px" height="100px" />
+  <img src="https://github.com/19Sonali/19Sonali/blob/main/badge/Postman.png" width="100px" height="100px" />
+  <img src="https://github.com/19Sonali/19Sonali/blob/main/badge/hacktober.png" width="100px" height="100px" />
+   <img src="https://github.com/19Sonali/19Sonali/blob/main/badge/hacktober-level2.png" width="100px" height="100px" />
    <img src="https://github.com/19Sonali/19Sonali/blob/main/badge/1.png" width="100px" height="100px" />
    <img src="https://github.com/19Sonali/19Sonali/blob/main/badge/2.png" width="100px" height="100px" />
    <img src="https://github.com/19Sonali/19Sonali/blob/main/badge/3.png" width="100px" height="100px" />
